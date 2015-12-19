@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    transition: color 2s ease; 
+}
+
+a:hover {
+    color: red;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.ollo {
+    font-size: 30px;
+}
